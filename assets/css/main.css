@@ -2249,16 +2249,16 @@
 		background: url("images/overlay.png"), url("../../images/detailing-crop-1024.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: 20%, center;
 	}
 
 /* skills */
 
 	#skills {
-		background: url("images/overlay.png"), url("../../images/brznme.jpg");
+		background: url("images/overlay.png"), url("../../images/korea-crop-1512x1512.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: center, center;
 	}
 
 /* Contact */
